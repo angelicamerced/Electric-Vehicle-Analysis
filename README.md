@@ -72,7 +72,7 @@ SELECT Model_Year, COUNT(*) AS Total_Vehicles
 FROM #temp_electric_vehicle
 GROUP BY Model_Year
 ORDER BY Model_Year;
-``
+```
 
 <img src="https://github.com/angelicamerced/Electric-Vehicle-Analysis/blob/main/images/res3.png" alt="First Image" width="200"/>
 
